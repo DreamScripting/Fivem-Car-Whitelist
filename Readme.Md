@@ -16,3 +16,4 @@
 ## Authors
 
 - [@koolaash](https://github.com/koolaash)
+- [@Butterchilly](https://github.com/Butterchilly)
